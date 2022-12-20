@@ -260,7 +260,7 @@ ul {
   display: none;
 }
 
-@media only screen and (max-width: 800px) {
+@media screen and (max-width: 800px) {
 
   nav ul {
     position: absolute;
@@ -286,7 +286,7 @@ ul {
   }
 
 }
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
   .row {
     text-align: center;
   }
